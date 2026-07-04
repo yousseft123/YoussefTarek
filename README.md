@@ -44,16 +44,20 @@
 ## 📬 Contact Me
 
 <p align="left">
+  <!-- بادج الجيميل -->
   <a href="mailto:Yousseftarek18731@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:+201066017281">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  
+  <!-- بادج الواتساب المعدل -->
+  <a href="https://wa.me/201066017281" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
+<!-- عداد الزيارات في المنتصف -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousseft123&color=blue&style=flat-square&label=Profile+Views"/>
 </p>
