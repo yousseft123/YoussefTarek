@@ -33,12 +33,10 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [🏦 Loan Approval Prediction](https://github.com/yousseft123/loan-approval-prediction) | ML model predicting loan approval using Logistic Regression & Random Forest with full EDA and Feature Engineering | Python, Scikit-learn, Pandas |
-| [🖥️ Computer Shop Management System](https://github.com/yousseft123/computer-shop-management-system) | Full database design with advanced SQL queries and a 6-page interactive Power BI Dashboard | SQL, Power BI |
-| [📈 Egypt Inflation Analysis](https://github.com/yousseft123/Egypt-Inflation) | Analysis of Egypt's inflation trends using Python EDA and interactive Excel Dashboard | Python, Excel |
-
-<br/>
-
+| [🏠 Airbnb Europe Data Warehouse & BI Dashboard](https://github.com/yousseft123/Airbnb-Europe-Data-Warehouse-BI) | End-to-end Business Intelligence project featuring Data Cleaning, Star Schema Data Warehouse design, DAX measures, and a 4-page interactive Power BI dashboard analyzing Airbnb listings across major European cities. | Power BI, DAX, Excel, Data Warehouse |
+| [🏦 Loan Approval Prediction](https://github.com/yousseft123/loan-approval-prediction) | ML model predicting loan approval using Logistic Regression & Random Forest with full EDA and Feature Engineering. | Python, Scikit-learn, Pandas |
+| [🖥️ Computer Shop Management System](https://github.com/yousseft123/computer-shop-management-system) | Full database design with advanced SQL queries and a 6-page interactive Power BI Dashboard. | SQL, Power BI |
+| [📈 Egypt Inflation Analysis](https://github.com/yousseft123/Egypt-Inflation) | Analysis of Egypt's inflation trends using Python EDA and an interactive Excel Dashboard. | Python, Excel |
 
 
 ## 📬 Contact Me
